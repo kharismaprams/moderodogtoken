@@ -11,10 +11,15 @@ Presenting the Moderodog Token (MDRG), your passport to an elevated gaming unive
 **Tokenomics:**
 
 Name: **Moderodog Token (MDRG)**
+
 Total Supply: **18,000,000 MDRG**
+
 Symbol: **MDRG**
+
 Blockchain: **Mode Network**
+
 Smart Contracts: **Designed to ensure fairness, security, and transparency in both gaming and transactions.**
+
 Join the Odyssey:
 Embark on an odyssey that effortlessly marries gaming with the prowess of blockchain technology. MDRG tokens serve as your guide, leading you through an enthralling gaming universe where rewards and entertainment are seamlessly intertwined. Prepare to play, earn, and shop in an entirely new dimension.
 
